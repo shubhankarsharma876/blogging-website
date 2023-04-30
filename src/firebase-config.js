@@ -8,10 +8,8 @@ import {getFirestore} from 'firebase/firestore'
 
 //we are adding the below package separately appart from the othher code we did from the firebase website 
 import {getAuth,GoogleAuthProvider} from 'firebase/auth'
-// TODO: Add SDKs for Firebase products that you want to use
-// https://firebase.google.com/docs/web/setup#available-libraries
+// Import the functions you need from the SDKs you need
 
-// Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: "AIzaSyD8snZ-bNau1du79K9ESYYUJ1Mq48Y4KA0",
   authDomain: "blogging-website-f041c.firebaseapp.com",
@@ -24,7 +22,7 @@ const firebaseConfig = {
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 
-
+// below lines we wrote to call during authentication and firestore access
 export const db =getFirestore(app);
 export const auth = getAuth(app);
 export const provider = new GoogleAuthProvider();
