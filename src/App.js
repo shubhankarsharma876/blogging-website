@@ -32,11 +32,19 @@ function App() {
         {/* {!isAuth && <Link to="/login">Login</Link>} */}
         {/* The above line is commented as it is only letting the login button disappear but we need to providde the logout button too so we will use ifelse ternary statement */}
         
-        <Link to="/login">Login</Link>
+       {/*  <Link to="/login">Login</Link> */}
          
+       {!isAuth ? (
+          <Link to="/login"> Login </Link>
+        ) : (
+          <>
+            <Link to="/createpost"> Create Post </Link>
+            <button onClick={signUserOut}> Log Out</button>
+          </>
+        )}
 
          {/* Later please learn protected routes */}
-         <Link to="/createPost">CreatePost</Link>
+        {/*  <Link to="/createPost">CreatePost</Link> */}
          {/* {isAuth &&<button onClick={signUserOut}>logout</button>} */}
         
 
