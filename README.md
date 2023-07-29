@@ -6,7 +6,7 @@ How to use...
 <br>
 Hmm... Well, just a cakewalk. Just visit the [website](https://blogging-website-azure.vercel.app/) and log in with Google authentication.
 <br>
-Make your words your mark! 🖋
+Make your words, your mark! 🖋
 
 ***
 # How to operate on localhost
@@ -20,11 +20,11 @@ Make your words your mark! 🖋
 
 ### Home Page
 
-<img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/blogging-website/main/backend.png"/>
+<img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/blogging-website/main/home.png"/>
 ***
 ### Login
-<img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/blogging-website/main/backend.png"/>
+<img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/blogging-website/main/authentication.png"/>
 ***
 ### Create Post
-<img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/blogging-website/main/backend.png"/>
+<img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/blogging-website/main/create post.png"/>
 
