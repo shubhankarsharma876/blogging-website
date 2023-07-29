@@ -1,5 +1,4 @@
 # Though Bubble
-***
 Live at [https://blogging-website-azure.vercel.app](https://blogging-website-azure.vercel.app/)
 ***
 
