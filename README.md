@@ -1,12 +1,30 @@
-# The website is live here:
+# Though Bubble
 
-https://blogging-website-azure.vercel.app/
+This is a place for your thought and idea addressed with your name. 
+<br>
+How to use...
+<br>
+Hmm... Well, just a cakewalk. Just visit the [website](https://blogging-website-azure.vercel.app/) and log in with Google authentication.
+<br>
+Make your words your mark! 🖋
 
-# Before using check whether the director is having node-modules.
-if there make sure to delete before further steps. (The prime reason for failure in the system)
+***
+# How to operate on localhost
+-> Clone the repository.
+<br>
+-> Then redirect the terminal and run the command "npm install" and then "npm start" or "npm run start"
+<br>
 
-# To use at localhost
-first run:
-### npm install
-then :
-### npm start
+***
+#Screenshot
+
+### Home Page
+
+<img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/blogging-website/main/backend.png"/>
+***
+### Login
+<img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/blogging-website/main/backend.png"/>
+***
+### Create Post
+<img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/blogging-website/main/backend.png"/>
+
