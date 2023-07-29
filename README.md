@@ -30,7 +30,9 @@ Make your words, your mark! 🖋
 ***
 ### Login
 <img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/blogging-website/main/authentication.png"/>
+
 ***
+
 ### Create Post
 <img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/blogging-website/main/create post.png"/>
 
