@@ -1,6 +1,6 @@
 # Though Bubble
 ***
-Live at [https://blogging-website-azure.vercel.app/](https://blogging-website-azure.vercel.app/)
+Live at [https://blogging-website-azure.vercel.app](https://blogging-website-azure.vercel.app/)
 ***
 
 This is a place for your thought and idea addressed with your name. 
@@ -12,6 +12,7 @@ Hmm... Well, just a cakewalk. Just visit the [website](https://blogging-website-
 Make your words, your mark! 🖋
 
 ***
+
 # How to operate on localhost
 -> Clone the repository.
 <br>
@@ -19,11 +20,13 @@ Make your words, your mark! 🖋
 <br>
 
 ***
+
 # Screenshot
 
 ### Home Page
 
 <img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/blogging-website/main/home.png"/>
+
 ***
 ### Login
 <img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/blogging-website/main/authentication.png"/>
